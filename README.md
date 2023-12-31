@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**mertsancar/mertsancar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+I'm Mert. I graduated from the Software Development Department at Yeditepe University with a high honors degree. I have recently working at Zegan Games as a co-founder and software/game developer.
+
+Technologies that I have experience with:
+
+## C#: 
+-.NET 
+-ASP.NET
+-Unity
+
+## Python:
+-Django
+-Flask
+-Pandas
+-Numpy
+-FastAPI
+-Requests
+
+## Javascript: 
+-Node.js
+-Express.js
+-JQuery
+-HTML-CSS
+
+## SQL: 
+-Amazon DynamoDB
+-NoSQL
+-MySQL
+-SQL Server
+
