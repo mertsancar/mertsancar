@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 
 - 🔭 I’m currently working on ...
@@ -14,28 +14,28 @@ I'm Mert. I graduated from the Software Development Department at Yeditepe Unive
 
 Technologies that I have experience with:
 
-## C#: 
--.NET 
--ASP.NET
--Unity
+### C#: 
+- .NET 
+- ASP.NET
+- Unity
 
-## Python:
--Django
--Flask
--Pandas
--Numpy
--FastAPI
--Requests
+### Python:
+- Django
+- Flask
+- Pandas
+- Numpy
+- FastAPI
+- Requests
 
-## Javascript: 
--Node.js
--Express.js
--JQuery
--HTML-CSS
+### Javascript: 
+- Node.js
+- Express.js
+- JQuery
+- HTML-CSS
 
-## SQL: 
--Amazon DynamoDB
--NoSQL
--MySQL
--SQL Server
+### SQL: 
+- Amazon DynamoDB
+- NoSQL
+- MySQL
+- SQL Server
 
