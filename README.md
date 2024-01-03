@@ -6,6 +6,8 @@ I'm Mert. I graduated from the Software Development Department at Yeditepe Unive
 Technologies that I have experience with:
 
 ### C#: 
+![c#logo](https://github.com/mertsancar/mertsancar/assets/57791061/453f20a4-8eab-453d-98e1-f5e8a97eb1d2)
+
 - .NET 
 - ASP.NET
 - Unity
