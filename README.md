@@ -24,6 +24,9 @@ Technologies that I have experience with:
 - JQuery
 - HTML-CSS
 
+### Java:
+-Spring Boot
+
 ### SQL: 
 - Amazon DynamoDB
 - NoSQL
