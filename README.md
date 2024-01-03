@@ -1,7 +1,9 @@
 # Hello there 👋
 
 
-I'm Mert. I graduated from the Software Development Department at Yeditepe University with a high honors degree. I have recently working at Zegan Games as a co-founder and software/game developer.
+I'm Mert. I graduated from the Software Development Department at Yeditepe University with a high honors degree. 
+
+I have recently working at Zegan Games as a co-founder and software/game developer.
 
 Technologies that I have experience with:
 
