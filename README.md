@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have recently working at Zegan Games as a co-founder and software/game developer.</p>
+<p align="left">I'm working at Pine Games as a Software Engineer.</p>
 
 ###
 
