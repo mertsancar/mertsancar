@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm Mert. I graduated from the Software Development Department at Yeditepe University with a high honors degree.<br><br>Since 2021, I have been actively working on software projects. I had the opportunity to work in many different areas and teams.<br><br>I am a fast learner who likes to learn new technologies. Coding is more like a hobby than a job.<br><br>You can contact me at any time from my social media accounts.</p>
+<p align="left">✨ I'm Mert. I graduated from the Software Development Department at Yeditepe University with a high honors degree.<br><br>Since 2021, I have been actively working on software projects. I had the opportunity to work in many different areas and teams.<br><br>You can contact me at any time from my social media accounts.</p>
 
 ###
 
